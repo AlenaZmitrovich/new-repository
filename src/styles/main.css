@@ -8,8 +8,13 @@ body {
   background-color: blue;
 }
 
+
+.main {
+  width: 100%;
+  padding: 4rem;
+  background-color: red;
+
 .header {
   width: 100%;
   padding: 3rem;
   background-color: rgb(230, 0, 255);
-}/*# sourceMappingURL=main.css.map */
